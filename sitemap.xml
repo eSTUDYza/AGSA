@@ -9,4 +9,13 @@
       <image:loc>http://agsa.com/images/wheel.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://agsa.com/agsa-smaller.html</loc>
+    <lastmod>2020-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://agsa.com/images/wheel548x554.png</image:loc>
+    </image:image>
+  </url>
 </urlset>

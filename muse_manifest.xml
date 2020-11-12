@@ -1,25 +1,31 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="agsa.com" resolutions="1x" timestamp="1605171259716">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="agsa.com" resolutions="1x" timestamp="1605172366663">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="113519077" ref="index"/>
+    <file name="index.css" crc="4060989917" ref="index"/>
+    <file name="agsa-smaller.css" crc="218949204" ref="agsa-smaller"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3939489907" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="3936894949" ref="index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index"/>
-    <file name="require.js" crc="4177726516" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:agsa-smaller"/>
+    <file name="museutils.js" crc="3939489907" ref="index:agsa-smaller"/>
+    <file name="whatinput.js" crc="86476730" ref="index:agsa-smaller"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:agsa-smaller"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:agsa-smaller"/>
+    <file name="require.js" crc="4177726516" ref="index:agsa-smaller"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:agsa-smaller"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:agsa-smaller"/>
     <file name="wheel.png" crc="4077048245" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="muse bg.jpg" crc="4123934938" ref="index">
+    <file name="muse bg.jpg" crc="4123934938" ref="index:agsa-smaller">
       <caption webpage="index" alt=""/>
+      <caption webpage="agsa-smaller" alt=""/>
+    </file>
+    <file name="wheel548x554.png" crc="489496721" seo="true" ref="agsa-smaller">
+      <caption webpage="agsa-smaller" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="201667047" seo="true" mt="1605170838068" redirect="true"/>
+  <file name="index.html" crc="4223140849" seo="true" mt="1605172235637" redirect="true"/>
+  <file name="agsa-smaller.html" crc="31170391" seo="true" mt="1605172205978" redirect="true"/>
 </manifest>
