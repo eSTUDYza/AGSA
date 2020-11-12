@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="agsa.com" resolutions="1x" timestamp="1605181043787">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="agsa.com" resolutions="1x" timestamp="1605187291780">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4060989917" ref="index"/>
-    <file name="agsa-smaller.css" crc="373900630" ref="agsa-smaller"/>
+    <file name="agsa-smaller.css" crc="311009249" ref="agsa-smaller"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:agsa-smaller"/>
@@ -27,5 +27,5 @@
     </file>
   </folder>
   <file name="index.html" crc="4223140849" seo="true" mt="1605172235637" redirect="true"/>
-  <file name="agsa-smaller.html" crc="441608881" seo="true" mt="1605181025457" redirect="true"/>
+  <file name="agsa-smaller.html" crc="367170737" seo="true" mt="1605187268916" redirect="true"/>
 </manifest>
